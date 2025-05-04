@@ -1,4 +1,4 @@
-Revision: 0.0.1
+
 
 
 > GDD Template Written by: Benjamin “HeadClot” Stanley
@@ -45,79 +45,72 @@ Revision: 0.0.1
 # Overview
 
 
-## Theme / Setting / Genre
+## Plataforma/Aplicacion Educativa
 
-<Insert Theme here>
+
 
 ## Core Gameplay Mechanics Brief
 
-  - <Gameplay Mechanic #1>
-  - <Gameplay Mechanic #2>
-  - <Gameplay Mechanic #3>
-  - <Gameplay Mechanic #4>
+- Sistema de niveles basado en mundos
+- Interaccion de leccion con NPC´s
+- Sistema de nivel del personaje
+- Movilidad vista de dios
 
 ## Targeted platforms
-  - <Example Platform #1 Here>
-  - <Example Platform #2 Here>
-  - <Example Platform #3 Here>
+  - Personas interesadas en expadir sus conocimientos de manera interactiva
+      - Estudiantes
+      - Instituciones educativas que busquen un enfoque interactivo
+  
 
 ## Monetization model (Brief/Document) 
-  - Monetization Type (Premium, Paid Alpha/Beta/Final, Ad Driven, Micro-transactions, Subscription, etc.)
-  - Link to Monetization Document (How do you plan to monetize the game?)
+  - Monetization Type (ADS)
 
 ## Project Scope 
   - Game Time Scale
-    - Cost? (How much will it cost?)
-    - Time Scale (How long will it take to make this game?)
+    - Cost? 0.0 mxn
+    - Time Scale 
+        - aprox. 4 meses para tener un mvp
   - Team Size
-    - Core Team
-      - Team Member name?
-        - What does he/she do?
-        - Cost to employ them full time or part time
-      - etc. (List as many core team members as you need to)
+    - Core Team 
+      - Hector Lugo
+      - Santino Im
+
     - Marketing Team
-      - Team Member name?
-        - What does he/she do?
-        - Cost to employ them full time or part time
-      - Etc. (List as many marketing team members as you need to)
-    - Licenses / Hardware / Other Costs
-    - Total Costs with breakdown
+      - Santino
+      - Hector
+    - Licenses / Hardware /
+        - Hosting
+        - Nube (imagenes, audios)
 
-## Influences (Brief)
-  - Influence #1
-    - Medium (Television, Games, Literature, Movies, etc.)
-    - /Explain why this is an influence in 1 Paragraph or less/
-  - Influence #2
-    - Medium (Television, Games, Literature, Movies, etc.)
-    - /Explain why this is an influence in 1 Paragraph or less/
-  - Influence #3
-    - Medium (Television, Games, Literature, Movies, etc.)
-    - /Explain why this is an influence in 1 Paragraph or less/
-  - Influence #4>
-    - Medium (Television, Games, Literature, Movies, etc.)
-    - /Explain why this is an influence in 1 Paragraph or less/
 
-## The elevator Pitch
+## Influences
+  - #Codedex
+    - Educational Platform
+    - Queremos replicar el funcionamiento tratando al aprendizaje como una aventura que se asemeje a un videojuego
+  - #Duolingo
+    - Educational Platform
+    - Sistema de progresion, y aprendizaje continuo
+  - #Pokemon
+      - Videojuego
+      - Jugabilidad y estetica
+
+
+## The elevator Pitch !Pending
 
 [A one sentence pitch for your game.]
 Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds.
 
-## Project Description (Brief):
-
-[Two Paragraphs at least]
-[No more than three paragraphs]
-
-## Project Description (Detailed)
+## Project Description :
+ Una plataforma educativa que se maneja como un videojuego en el cual puedes accerder a disitintos mundos enfocados en diferentes areas de conocimiento. En dichos mundos habran determinados NPC´s y paisajes unicos que serviran como los medios de coneccion entre el usuario y el aprendizaje.
+ El usuario podria viajar entre mundos, conforme su aprendizaje lo requiera. El sistema de progresion no esta basado en un orden lineal donde tengas que completar lo anterior para acceder a otro tema. 
 
 [Four Paragraphs or more If needs be]
 [No more than six paragraphs]
 
 # What sets this project apart?
-  - <Reason #1>
-  - <Reason #2>
-  - <Reason #3>
-  - <Reason #4>
-  - <etc.>
+  - Innovacion en el area educativa
+  - Interactividad para un aprendizaje inmersivo
+  - Un estetica visual atractiva al usuario (pixel art)
 
 ## Core Gameplay Mechanics (Detailed)
   - [Core Gameplay Mechanic #1]
